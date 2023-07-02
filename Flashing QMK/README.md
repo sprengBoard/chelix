@@ -1,4 +1,4 @@
-## How to flash new QMK files (such as keymaps) to the Chelix:
+## How to flash new QMK files to the Chelix:
 
 The Chelix is configured to use QMK's bootmagic lite feature for easy flashing. Follow these steps after you've modified the QMK files and are ready to flash them to the Chelix. Note: if editing the keymap, I recommend editing the default keymap in the via keymap folder so you can still use VIA for simple keymap changes.
 
