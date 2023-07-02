@@ -6,5 +6,5 @@ Like the [Helix](https://github.com/MakotoKurauchi/helix), the Chelix features a
 
 * Reversible PCBs with hotswap sockets
 * [Adafruit's KB2040 Kee Boar Driver](https://www.adafruit.com/product/5302) (based on the [Raspberry Pi RP2040](https://www.raspberrypi.com/products/rp2040/))
-* [QMK firmware](https://github.com/qmk)
+* [QMK](https://github.com/qmk) firmware
 * [VIA](https://www.caniusevia.com/) compatible (json upload required)
