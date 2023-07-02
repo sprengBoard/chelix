@@ -20,9 +20,9 @@ The Chelix is configured to use QMK's bootmagic lite feature for easy flashing. 
 >**For right half:**
 ```qmk flash -kb chelix -km via -bl uf2-split-right```
 >
->You'll see the QMK files being compiled and a bunch of green [OK]s. Once you see the line ```Wrote [#] bytes to /Volumes/RPI-RP2/NEW.UF2``` the flashing process for that half of the Chelix is complete.
+>You'll see the QMK files being compiled and a bunch of green [OK]s. Once you see the line ```Wrote [#] bytes to /Volumes/RPI-RP2/NEW.UF2``` the flashing process for that half of the Chelix is complete and you can move on to Step 5. Note: you may not see all the files being compiled every time you flash the Chelix.
 >
->If you receive any [Error] messages, thoroughly examine the messages for clues on what went wrong. Chances are it's something simple in the Chelix's QMK files that needs to be fixed.
+>If you receive any [Error] messages, thoroughly examine the messages for clues as to what went wrong. Chances are it's something simple in the Chelix's QMK files that needs to be fixed.
 
 ### Step 5
 >Repeat steps 2-4 for the other half of the Chelix, then enjoy typing!
